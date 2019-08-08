@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361070938054",
+    "firebase_url": "https://mlbarcodescanner-d1986.firebaseio.com",
+    "project_id": "mlbarcodescanner-d1986",
+    "storage_bucket": "mlbarcodescanner-d1986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361070938054:android:d033675962e340d8",
+        "android_client_info": {
+          "package_name": "com.code.mlbarcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361070938054-mjss9ou13876qlgpp290spp6ft6k8t7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.code.mlbarcodescanner",
+            "certificate_hash": "1886ef8bca74d77de700caf97c5424462a394170"
+          }
+        },
+        {
+          "client_id": "361070938054-smgtcvkodr9nf8kk9thl5302glfs30l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWIu1-UIkY19WhgEtIrnwrz2TW7O-sGKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361070938054-smgtcvkodr9nf8kk9thl5302glfs30l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
