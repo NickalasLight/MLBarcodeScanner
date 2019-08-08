@@ -80,9 +80,6 @@ class MainActivity : AppCompatActivity() {
        // intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
         startActivity(intent)
 
-        //finish()
-        //TODO: Start activity here that searches barcode on google.
-
     }
     fun returnBarcodeTypeName(barcodeType : String):String{
       return when(barcodeType.toInt()){
